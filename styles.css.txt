@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Master Video Editor | Harvard Graduate | Professional Video Editing Services">
+<title>Professional Video Editing Services</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<!-- Header Section -->
+<header class="header">
+<div class="container">
+<h1>Welcome to My Video Editing Service</h1>
+<p>Your Go-To Professional for Stunning Video Creations</p>
+</div>
+</header>
+
+<!-- About Section -->
+<section id="about" class="about-section">
+<div class="container">
+<h2>About Me</h2>
+<p>With a passion for visual storytelling and years of experience, I offer top-tier video editing services. I am a graduate of Harvard University, where I honed my skills and gained advanced knowledge in video production and editing techniques.</p>
+<p>My expertise spans across a wide range of video editing styles, including corporate videos, YouTube content, social media clips, commercials, and more. I use the latest tools and techniques to create visually engaging content that resonates with your audience.</p>
+</div>
+</section>
+
+<!-- Services Section -->
+<section id="services" class="services-section">
+<div class="container">
+<h2>My Services</h2>
+<ul>
+<li><strong>Custom Video Editing:</strong> Tailored edits for your specific needs, including cutting, color correction, transitions, and effects.</li>
+<li><strong>Social Media Content:</strong> Quick, engaging videos designed for platforms like Instagram, TikTok, and YouTube.</li>
+<li><strong>Corporate Video Production:</strong> Professional video content for presentations, training, or marketing purposes.</li>
+<li><strong>Music Video Editing:</strong> Creative edits that bring out the energy and emotion of your music.</li>
+<li><strong>Video Enhancements:</strong> Color grading, audio optimization, and visual effects to elevate your content.</li>
+</ul>
+</div>
+</section>
+
+<!-- Skills Section -->
+<section id="skills" class="skills-section">
+<div class="container">
+<h2>Skills & Tools</h2>
+<p>I use industry-standard software to deliver the highest quality results:</p>
+<ul>
+<li>Adobe Premiere Pro</li>
+<li>Final Cut Pro</li>
+<li>DaVinci Resolve</li>
+<li>After Effects</li>
+<li>Adobe Photoshop & Illustrator (for Thumbnail Design)</li>
+</ul>
+</div>
+</section>
+
+<!-- Education Section -->
+<section id="education" class="education-section">
+<div class="container">
+<h2>Education</h2>
+<p><strong>Harvard University</strong> - Master’s Degree in Digital Media Production</p>
+<p>During my time at Harvard, I studied advanced video editing techniques, cinematic production, and digital media management. My training helped me develop the skills to work in a variety of video production environments.</p>
+</div>
+</section>
+
+<!-- Testimonials Section -->
+<section id="testimonials" class="testimonials-section">
+<div class="container">
+<h2>What My Clients Say</h2>
+<blockquote>
+<p>"An amazing editor! I loved how the final video turned out. Fast turnaround and top quality!"</p>
+<footer>- Client Name, YouTuber</footer>
+</blockquote>
+<blockquote>
+<p>"Worked on a corporate video for us, and the result exceeded our expectations. Highly recommended!"</p>
+<footer>- Client Name, Marketing Director</footer>
+</blockquote>
+</div>
+</section>
+
+<!-- Contact Section -->
+<section id="contact" class="contact-section">
+<div class="container">
+<h2>Get in Touch</h2>
+<p>Ready to elevate your video content? Let's discuss your project!</p>
+<a href="mailto:your-email@example.com" class="contact-btn">Contact Me</a>
+</div>
+</section>
+
+<!-- Footer -->
+<footer class="footer">
+<div class="container">
+<p>&copy; 2025 Video Editing by [Your Name]. All rights reserved.</p>
+</div>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
+* {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {
+font-family: Arial, sans-serif;
+line-height: 1.6;
+}
+
+.container {
+width: 80%;
+margin: 0 auto;
+}
+
+header {
+background: #333;
+color: #fff;
+padding: 50px 0;
+text-align: center;
+}
+
+header h1 {
+font-size: 2.5em;
+}
+
+header p {
+font-size: 1.2em;
+}
+
+section {
+padding: 40px 0;
+}
+
+h2 {
+font-size: 2em;
+margin-bottom: 20px;
+}
+
+ul {
+list-style: none;
+margin-top: 10px;
+}
+
+ul li {
+font-size: 1.2em;
+margin-bottom: 10px;
+}
+
+blockquote {
+font-style: italic;
+font-size: 1.1em;
+margin-bottom: 20px;
+border-left: 4px solid #333;
+padding-left: 10px;
+}
+
+footer {
+background: #333;
+color: #fff;
+text-align: center;
+padding: 20px 0;
+}
+
+.contact-btn {
+background: #333;
+color: #fff;
+padding: 10px 20px;
+text-decoration: none;
+border-radius: 5px;
+font-size: 1.2em;
+}
+
+.contact-btn:hover {
+background: #555;
+}
